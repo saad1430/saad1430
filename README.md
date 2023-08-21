@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saad1430
 - 👀 I’m interested in coding, re-writing & designing.
-- 🌱 I’m currently learning Python, Angular.
+- 🌱 I’m currently working on Laravel and Angular.
 - 📫 Contact me: https://m.me/saad1430
 
 <!---
